@@ -1,1 +1,1 @@
-target_stm32f405xg(MICOAIR405V2)
+target_stm32f405xg(FLYAIR405V2)
